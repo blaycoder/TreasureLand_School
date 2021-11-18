@@ -1583,7 +1583,7 @@ a.btn.blue,
 	.slider .info h2 {
 		font-size: 60px;
 		line-height: 70px;
-		padding-bottom: 50px;
+		padding-bottom: 11px;
 	}
 	
 	.slider .info h2 span {
@@ -1909,8 +1909,30 @@ a.btn.blue,
 	.slider .info{
 		padding-top: 70px;
 	}
+	.slider .info h2{
+		font-size: 40px;
+		line-height: 55px;
+	}
+	.slider .info span {
+		font-size: 30px;
+	}
+	.slider .info a {
+		font-size: 25px;
+	}
 	#footer{
 		padding-top: 60px;
+	}
+}
+
+@media screen and (max-width: 597px){
+	.slider .info{
+		padding-top: 70px;
+	}
+	.slider .info h2{
+		line-height: 55px;
+	}
+	.slider .info a {
+		font-size: 20px;
 	}
 }
 
@@ -1979,13 +2001,13 @@ a.btn.blue,
 	.slider .info h2 {
 		font-size: 40px;
 		line-height: 50px;
-		padding-bottom: 30px;
+		padding-bottom: 5px;
 	}
 	
 	.slider .info h2 span {
 		font-size: 35px;
 		line-height: 50px;
-		padding: 0 15px;
+		padding: 0 9px;
 	}
 
 	.mac .slider .info h2 span {
@@ -2157,4 +2179,5 @@ margin: 0 auto;
     top: 50%;
     left: 50%;
     transform: translate(100px, 10px);
+}
 }
