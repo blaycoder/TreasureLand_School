@@ -828,6 +828,7 @@ h1.single{
 .header-box ul li a {
 	padding-left: 45px;
 	padding-right: 20px;
+	font-size: 15px;
 	display: block;
 	color: #fff;
 	position: relative;
