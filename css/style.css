@@ -680,7 +680,7 @@ h1.single{
 	color: #ffff;
 	font-family: 'Spartan', sans-serif;
 	font-weight: 600;
-	font-size: 65px;
+	font-size: 50px;
 	line-height: 84px;
 	padding-bottom: 80px;
 	z-index: 777;
@@ -690,7 +690,7 @@ h1.single{
 	color: #fff;
 	font-family: 'Spartan', sans-serif;
 	font-weight: 500;
-	font-size: 50px;
+	font-size: 30px;
 	line-height: 101px;
 	border-radius: 4px;
 	background:#002A5C;
@@ -706,7 +706,7 @@ h1.single{
 .slider .info a {
 	color: #ffffff;
     font-family: 'Spartan', sans-serif;
-	font-size: 30px;
+	font-size: 20px;
 	line-height: 48px;
 	font-weight: 300;
 	padding-right: 63px;
@@ -1581,13 +1581,13 @@ a.btn.blue,
 	}
 	
 	.slider .info h2 {
-		font-size: 60px;
+		font-size: 40px;
 		line-height: 70px;
 		padding-bottom: 11px;
 	}
 	
 	.slider .info h2 span {
-		font-size: 50px;
+		font-size: 30px;
 		line-height: 80px;
 		display: inline-block;
 	}
@@ -1910,14 +1910,14 @@ a.btn.blue,
 		padding-top: 70px;
 	}
 	.slider .info h2{
-		font-size: 40px;
+		font-size: 25px;
 		line-height: 55px;
 	}
 	.slider .info span {
-		font-size: 30px;
+		font-size: 15px;
 	}
 	.slider .info a {
-		font-size: 25px;
+		font-size: 15px;
 	}
 	#footer{
 		padding-top: 60px;
@@ -1999,13 +1999,13 @@ a.btn.blue,
 	}
 	
 	.slider .info h2 {
-		font-size: 40px;
-		line-height: 50px;
+		font-size: 25px;
+		line-height: 40px;
 		padding-bottom: 5px;
 	}
 	
 	.slider .info h2 span {
-		font-size: 35px;
+		font-size: 20px;
 		line-height: 50px;
 		padding: 0 9px;
 	}
@@ -2016,7 +2016,7 @@ a.btn.blue,
 	}
 	
 	.slider .info a {
-		font-size: 26px;
+		font-size: 20px;
 		line-height: 30px;
 		padding-right: 50px;
 	}
